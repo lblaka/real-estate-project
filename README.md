@@ -9,8 +9,10 @@ The project utilizes a descriptive analysis and linear modeling to reveal which 
 # Results
 The mean price of the bathrooms tells us that as number of bathrooms increase so does the price of the home. 
 ![image](https://user-images.githubusercontent.com/82670256/130840042-8200ffe0-0915-4593-955d-57662aa8c14d.png)
+
 The mean price of grade shows that the higher the grade of the home the higher price of the home. 
 ![image](https://user-images.githubusercontent.com/82670256/130840054-bff52739-19a0-4bea-8d85-91c9d9824851.png)
+
 The square feet of the home shows a strong correlation between the size of the home and an increase in the price. 
 ![image](https://user-images.githubusercontent.com/82670256/130840159-0907af19-f73f-4152-8ddb-1f2207fc73f9.png)
 
