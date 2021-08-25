@@ -15,7 +15,7 @@ The mean price of grade shows that the higher the grade of the home the higher p
 ![image](https://user-images.githubusercontent.com/82670256/130840054-bff52739-19a0-4bea-8d85-91c9d9824851.png)
 
 The square feet of the home shows a strong correlation between the size of the home and an increase in the price. 
-![image](https://user-images.githubusercontent.com/82670256/130840159-0907af19-f73f-4152-8ddb-1f2207fc73f9.png)
+![image](https://user-images.githubusercontent.com/82670256/130846320-d5548e41-1bbb-4e27-b1b5-62986d8c5232.png)
 
 # Conclusion 
 Real estate companies working on pricing of homes in King County should consider the grade of the home, square footage of the home, and the number of bathrooms the home contains to give the most accurate pricing evaluation.  
