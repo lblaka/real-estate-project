@@ -1,9 +1,9 @@
-# BRK Consulting Kings County
+# BRK Consulting King County
 Authors: Lorela Blaka, Meaghan Ross, Rashid Karriti
 # Overview
-This project analyzes a series of linear regressions to provide recommendations for a Real Estate Company in Washington's Kings County to have a greater understanding on how to properly price homes. Interpretive analysis shows that the number of bathrooms, evaluation of grades, and square feet of the home as strong indicators to how to price a home. 
+This project analyzes a series of linear regressions to provide recommendations for a real estate company in Washington's King County to have a greater understanding on how to properly price homes. Interpretive analysis shows that the number of bathrooms, evaluation of grades, and square footage of the home are strong indicators on how to price a home. 
 # Business Understanding 
-A real estate investing company can suitably price homes in Kings County if they: A) Consider the relationship between bathrooms and price, B) Evaluate the relationship between grade and price, and C) Review the relationship between the square feet of the home and price of a home.
+A real estate company can suitably price homes in King County if they: A) Consider the relationship between bathrooms and price, B) Evaluate the relationship between grade and price, and C) Review the relationship between the square feet of the home and price of a home.
 # Data Analysis & Methodology
 The project utilizes a descriptive analysis and linear modeling to reveal which factors contribute most to housing prices. 
 # Results
@@ -18,13 +18,17 @@ The square feet of the home shows a strong correlation between the size of the h
 ![image](https://user-images.githubusercontent.com/82670256/130840159-0907af19-f73f-4152-8ddb-1f2207fc73f9.png)
 
 # Conclusion 
-Real estate companies working on pricing of homes in Kings County should consider the grade of the home, square footage of the home, and the number of bathrooms the home contains to give the most accurate pricing evaluation.  
+Real estate companies working on pricing of homes in King County should consider the grade of the home, square footage of the home, and the number of bathrooms the home contains to give the most accurate pricing evaluation.  
 # Next Steps
 For more comprehensive evaluation of pricing a home, a real estate company should further inquire into:
 - Expanding the data to years beyond 2015, to see if pricing has changed overtime with other important features to the home.
 - Include property tax information to better predict price in the future
-- Looking at changes in pricing based on individual neighborhoods across Kings County
+- Looking at changes in pricing based on individual neighborhoods across King County
 
 # Additional Information 
+
 - Jupyter Notebook
 - Instructions on navigating repo 
+
+
+# Project Structure 
