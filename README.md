@@ -21,10 +21,10 @@ The square feet of the home shows a strong correlation between the size of the h
 Real estate companies working on pricing of homes in Kings County should consider the grade of the home, square footage of the home, and the number of bathrooms the home contains to give the most accurate pricing evaluation.  
 # Next Steps
 For more comprehensive evaluation of pricing a home, a real estate company should further inquire into:
--Expanding the data to years beyond 2015, to see if pricing has changed overtime with other important features to the home.
--Include property tax information to better predict price in the future
--Looking at changes in pricing based on individual neighborhoods across Kings County
+- Expanding the data to years beyond 2015, to see if pricing has changed overtime with other important features to the home.
+- Include property tax information to better predict price in the future
+- Looking at changes in pricing based on individual neighborhoods across Kings County
 
 # Additional Information 
--Jupyter Notebook
--Instructions on navigating repo 
+- Jupyter Notebook
+- Instructions on navigating repo 
