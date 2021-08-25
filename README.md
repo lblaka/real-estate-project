@@ -7,6 +7,10 @@ A real estate investing company can suitably price homes in Kings County if they
 # Data Analysis & Methodology
 The project utilizes a descriptive analysis and linear modeling to reveal which factors contribute most to housing prices. 
 # Results
+![image](https://user-images.githubusercontent.com/82670256/130840042-8200ffe0-0915-4593-955d-57662aa8c14d.png)
+![image](https://user-images.githubusercontent.com/82670256/130840054-bff52739-19a0-4bea-8d85-91c9d9824851.png)
+![image](https://user-images.githubusercontent.com/82670256/130840159-0907af19-f73f-4152-8ddb-1f2207fc73f9.png)
+
 # Conclusion 
 # Next Steps
 # Additional Information 
