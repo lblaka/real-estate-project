@@ -7,11 +7,12 @@ King County Real Estate has contracted us to investigate what home features have
 # Data Analysis & Methodology
 The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices.  Our main data sets are King County House Sales Data from 2014 to 2015, and USA.com data on income per capita across cities in King County. The prediction accuracy of the features of a home included in our model accounted for about 67% of the variation in price, with a price prediction of +/- $192,033 from the actual price.
 # Results
-The square feet of the home shows a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on the number of square footage of the home .
+The square feet of the home presents a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on the number of square footage of the home.
 
-![download](https://user-images.githubusercontent.com/82670256/131034563-d504254d-11a4-40d0-aa84-34b2427d9b6e.png)
+![download-3](https://user-images.githubusercontent.com/82670256/131037456-12821660-d6db-47ff-b42f-60f2d6254107.png)
 
 The income per capita shows a strong correlation between the income per capita of a neighborhood and an increase in price. Our recommendation is to price homes that have a higher income per capita. 
+![download-2](https://user-images.githubusercontent.com/82670256/131037464-4f2eff4c-2c35-400f-ab1b-59b34500ef25.png)
 
 # Conclusion 
 Real estate companies working on pricing of homes in King County should consider the square footage of the home, and income per capita of the home to give the most accurate pricing evaluation.
