@@ -7,8 +7,11 @@ King County Real Estate has contracted us to investigate what features of a home
 # Data Analysis & Methodology
 The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices.  Our main data sets are King County House Sales Data from 2014 to 2015, and USA.com data on income per capita across cities in King County. The prediction accuracy of the features of a home included in our model accounted for about 67% of the variation in price, with a price prediction of +/- $192,033 from the actual price.
 # Results
-The square feet of the home shows a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on how the square footage is. 
+# - Square Footage 
 ![image](https://user-images.githubusercontent.com/82670256/130846320-d5548e41-1bbb-4e27-b1b5-62986d8c5232.png)
+
+The square feet of the home shows a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on how the square footage is. 
+
 
 The income per capita shows a strong correlation between the income per capita of a neighborhood and an increase in price. Our recommendation is to price homes that have a higher income per capita. 
 
@@ -25,3 +28,14 @@ For more comprehensive evaluation of pricing a home, a real estate company shoul
 - Instructions on navigating repo 
 # Project Structure 
 - 
+├── README.md
+├── data      <-- CSV 
+├── images    <-- visualizations generated from working notebooks and external images
+├── Individuals Notebooks       <--- Directory for individual workspaces
+│   ├── meaghan
+│   ├── lorela
+│   ├── rashid
+│   
+├── Project 2 Notebook.ipynb    <-- Final Jupyter Notebook containing codes detailing project's analysis 
+├── RealEstateProject.pdf   <-- non-technical presentation slides
+└── .gitignore
