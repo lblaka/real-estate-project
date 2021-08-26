@@ -1,7 +1,7 @@
 # BRK Consulting King County
 Authors: Lorela Blaka, Meaghan Ross, Rashid Karriti
 # Overview
-This project analyzes a series of linear regressions to provide recommendations for King County Real Estate to have a greater understanding on how to properly price homes. Interpretive analysis shows that income per capita and square footage of the home are strong indicators on how to price a home.
+This project analyzes a series of linear regressions to provide recommendations for King County Real Estate to have a better understanding on how to price homes in Washingtons King County. Interpretive analysis shows that income per capita and square footage of the home are strong indicators on how to price a home.
 # Business Understanding 
 King County Real Estate has contracted us to investigate what home features have the greatest impact on pricing and speeding up the sale of the home. Based on our models, King County Real Estate should: A) Review the relationship between the square footage of the home and price of a home and B) Review the relationship between income per capita of a neighborhood and price of a home.
 # Data Analysis & Methodology
@@ -9,7 +9,7 @@ The project utilizes a descriptive analysis, linear modeling, and running severa
 # Results
 The square feet of the home shows a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on how the square footage is.
 
-![image](https://user-images.githubusercontent.com/82670256/130846320-d5548e41-1bbb-4e27-b1b5-62986d8c5232.png)
+![download](https://user-images.githubusercontent.com/82670256/131034563-d504254d-11a4-40d0-aa84-34b2427d9b6e.png)
 
 The income per capita shows a strong correlation between the income per capita of a neighborhood and an increase in price. Our recommendation is to price homes that have a higher income per capita. 
 
