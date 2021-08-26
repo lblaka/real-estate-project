@@ -5,7 +5,7 @@ This project analyzes a series of linear regressions to provide recommendations 
 # Business Understanding 
 King County Real Estate has contracted us to investigate what features of a home has the greatest impact on pricing a home and speeding up the sale of the home. Based on our models, King County Real Estate should: A) Review the relationship between the square footage of the home and price of a home and B) Review the relationship between income per capita of a neighborhood and price of a home. 
 # Data Analysis & Methodology
-The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices. The features of a home included in the model accounted for about 67% of the variation in price, with a price prediction of +/- $192,033 from the actual price. Our main data sets are King County House Sales Data from 2014 to 2015, and USA.com data on Per Capita Income across cities in King County. 
+The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices.  Our main data sets are King County House Sales Data from 2014 to 2015, and USA.com data on Per Capita Income across cities in King County. The prediction accuracy of the features of a home included in our model accounted for about 67% of the variation in price, with a price prediction of +/- $192,033 from the actual price.
 # Results
 The square feet of the home shows a strong correlation between the size of the home and an increase in the price.
 ![image](https://user-images.githubusercontent.com/82670256/130846320-d5548e41-1bbb-4e27-b1b5-62986d8c5232.png)
