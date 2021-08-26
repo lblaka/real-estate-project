@@ -20,7 +20,7 @@ Real estate companies working on pricing of homes in King County should consider
 For more comprehensive evaluation of pricing a home, a real estate company should further inquire into:
 - Expanding the data to years beyond 2015, to see if pricing has changed overtime with other important features to the home.
 - Include property tax information to better predict prices in the future.
-- Include more features of a neighborhood, such as a school district.
+- Include more features of a neighborhood, such as a school district & public transit.
 # Additional Information 
 
 - Jupyter Notebook
