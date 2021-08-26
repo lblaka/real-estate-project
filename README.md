@@ -24,6 +24,8 @@ For more comprehensive evaluation of pricing a home, a real estate company shoul
 
 - Jupyter Notebook
 - Instructions on navigating repo 
+
+
 Lorela Blaka: lblaka@gmail.com
 Meaghan Ross: mer423@nyu.edu 
 Rashid Karriti: rhk48@georgetown.edu
