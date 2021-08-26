@@ -25,14 +25,3 @@ For more comprehensive evaluation of pricing a home, a real estate company shoul
 - Jupyter Notebook
 - Instructions on navigating repo 
 # Project Structure 
-├── README.md
-├── data      <-- CSV 
-├── images    <-- visualizations generated from working notebooks and external images
-├── Individuals Notebooks       <--- Directory for individual workspaces
-│   ├── meaghan
-│   ├── lorela
-│   ├── rashid
-│   
-├── Project 2 Notebook.ipynb    <-- Final Jupyter Notebook containing codes detailing project's analysis 
-├── RealEstateProject.pdf   <-- non-technical presentation slides
-└── .gitignore
