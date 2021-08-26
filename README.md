@@ -28,14 +28,14 @@ For more comprehensive evaluation of pricing a home, a real estate company shoul
 # Project Structure 
 ```
 ├── README.md
-├── data      <-- CSV and TSV files used in analyses
-├── images    <-- visualizations generated from working notebooks and external images
+├── data      <-- CSV 
+├── images    <-- visualizations from working notebooks and external images
 ├── Individuals Notebooks       <--- Directory for individual workspaces
-│   ├── allison
 │   ├── meaghan
-│   ├── ronak
+│   ├── lorela
+│   ├── rashid
 │   
-├── Project 1 Notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
-├── MicrosoftMovieProject.pdf   <-- non-technical presentation slides
+├── Project 2 Notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
+├── RealEstateProject.pdf   <-- non-technical presentation slides
 └── .gitignore
 ```
