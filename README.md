@@ -1,24 +1,19 @@
 # BRK Consulting King County
 Authors: Lorela Blaka, Meaghan Ross, Rashid Karriti
 # Overview
-This project analyzes a series of linear regressions to provide recommendations for a King County Real Estate to have a greater understanding on how to properly price homes. Interpretive analysis shows that the number of bathrooms, evaluation of grades, and square footage of the home are strong indicators on how to price a home. 
+This project analyzes a series of linear regressions to provide recommendations for a King County Real Estate to have a greater understanding on how to properly price homes. Interpretive analysis shows that the number of income per captia and square footage of the home are strong indicators on how to price a home. 
 # Business Understanding 
-A King County Real Estate has contracted us to investigate what features of a home has the greatest impact on pricing a home. Based on our models, Kings County Real Estate should: A) Consider the relationship between bathrooms and price, B) Evaluate the relationship between grade and price, and C) Review the relationship between the square feet of the home and price of a home.
+King County Real Estate has contracted us to investigate what features of a home has the greatest impact on pricing a home. Based on our models, Kings County Real Estate should: A) Review the relationship between the square footage of the home and price of a home and B) Review the relationship between income per captia of a neighboorhood and price of a home. 
 # Data Analysis & Methodology
 The project utilizes a descriptive analysis and linear modeling to reveal which factors contribute most to housing prices. 
 # Results
-The mean price of the bathrooms tells us that as number of bathrooms increase so does the price of the home. 
-![image](https://user-images.githubusercontent.com/82670256/130840042-8200ffe0-0915-4593-955d-57662aa8c14d.png)
-
-
-The mean price of grade shows that the higher the grade of the home the higher price of the home.
-![image](https://user-images.githubusercontent.com/82670256/130840054-bff52739-19a0-4bea-8d85-91c9d9824851.png)
 
 The square feet of the home shows a strong correlation between the size of the home and an increase in the price.
 ![image](https://user-images.githubusercontent.com/82670256/130846320-d5548e41-1bbb-4e27-b1b5-62986d8c5232.png)
 
 # Conclusion 
-Real estate companies working on pricing of homes in King County should consider the grade of the home, square footage of the home, and the number of bathrooms the home contains to give the most accurate pricing evaluation.  
+Real estate companies working on pricing of homes in King County should consider the square footage of the home, and income per captia of the home to give the most accurate pricing evaluation.
+
 # Next Steps
 For more comprehensive evaluation of pricing a home, a real estate company should further inquire into:
 - Expanding the data to years beyond 2015, to see if pricing has changed overtime with other important features to the home.
