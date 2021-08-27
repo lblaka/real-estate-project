@@ -1,12 +1,12 @@
 # BRK Consulting King County
 Authors: Lorela Blaka, Meaghan Ross, Rashid Karriti
 # Overview
-![image-1](https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg)
+![image-1](https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg) <br />
 This project analyzes a series of linear regressions to provide recommendations for King County Real Estate to have a better understanding of how to price homes in Washington's King County. Interpretive analysis shows that income per capita and the square footage of the home are strong indicators of how to price a home.
 # Business Understanding 
 King County Real Estate has contracted us to investigate what home features have the greatest impact on pricing and speeding up the sale of the home. Based on our models, King County Real Estate should: <br />
 A) Review the relationship between the square footage of the home and price of a home and <br />
-B) Review the relationship between income per capita of a neighborhood and price of a home.<br />
+B) Review the relationship between income per capita of a neighborhood and price of a home. <br />
 # Data Analysis & Methodology
 The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices.  Our main data sets are King County House Sales Data from 2014 to 2015, and US Census Bureau data on income per capita across cities in King County. The prediction accuracy of our varaibles included in our model accounted for about 67% of the variation in price, with a price prediction of +/- $201,491 from the actual price.
 # Results
@@ -14,7 +14,8 @@ Here the Price vs Square Feet of the home presents a strong correlation between 
 
 ![download-3](https://user-images.githubusercontent.com/82670256/131037456-12821660-d6db-47ff-b42f-60f2d6254107.png)
 
-Here based on Mean Price by income shows a strong correlation between the income per capita of a neighborhood and an increase in price. Our recommendation is to price homes that have a higher income per capita. <br />
+Here based on Mean Price by income shows a strong correlation between the income per capita of a neighborhood and an increase in price. Our recommendation is to price homes that have a higher income per capita. 
+<br />
 ![download-2](https://user-images.githubusercontent.com/82670256/131037464-4f2eff4c-2c35-400f-ab1b-59b34500ef25.png)
 
 # Conclusion 
