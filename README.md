@@ -25,9 +25,9 @@ For a more comprehensive evaluation of pricing a home in the future, a real esta
 # For More Information 
 See the full analysis in the [Jupyter Notebook](https://github.com/lblaka/real-estate-project/blob/main/final_notebook.ipynb) or review [this presentation](https://www.google.com).
 
-Lorela Blaka: lblaka@gmail.com
-Meaghan Ross: mer423@nyu.edu 
-Rashid Karriti: rhk48@georgetown.edu
+Lorela Blaka: lblaka@gmail.com <br />
+Meaghan Ross: mer423@nyu.edu <br />
+Rashid Karriti: rhk48@georgetown.edu <br />
 
 # Project Structure 
 ```
