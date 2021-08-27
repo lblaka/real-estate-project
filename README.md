@@ -26,7 +26,7 @@ For a more comprehensive evaluation of pricing a home in the future, a real esta
 - Include property tax information to better predict prices in the future.
 - Include more features of a neighborhood, such as a school district & public transit.
 # For More Information 
-See the full analysis in the [Jupyter Notebook](https://github.com/lblaka/real-estate-project/blob/main/final_notebook.ipynb) or review [this presentation](https://www.google.com).
+See the full analysis in the [Jupyter Notebook](https://github.com/lblaka/real-estate-project/blob/main/final_notebook.ipynb) or review [this presentation](https://github.com/lblaka/real-estate-project/blob/6b1415ec513913c40cbfc38b6758d46f245195dc/RealEstateProject.pdf).
 
 Lorela Blaka: lblaka@gmail.com <br />
 Meaghan Ross: mer423@nyu.edu <br />
