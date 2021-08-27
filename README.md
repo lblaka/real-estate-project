@@ -1,13 +1,13 @@
 # BRK Consulting King County
 Authors: Lorela Blaka, Meaghan Ross, Rashid Karriti
 # Overview
-This project analyzes a series of linear regressions to provide recommendations for King County Real Estate to have a better understanding on how to price homes in Washingtons King County. Interpretive analysis shows that income per capita and square footage of the home are strong indicators on how to price a home.
+This project analyzes a series of linear regressions to provide recommendations for King County Real Estate to have a better understanding of how to price homes in Washington's King County. Interpretive analysis shows that income per capita and the square footage of the home are strong indicators of how to price a home.
 # Business Understanding 
 King County Real Estate has contracted us to investigate what home features have the greatest impact on pricing and speeding up the sale of the home. Based on our models, King County Real Estate should: A) Review the relationship between the square footage of the home and price of a home and B) Review the relationship between income per capita of a neighborhood and price of a home.
 # Data Analysis & Methodology
-The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices.  Our main data sets are King County House Sales Data from 2014 to 2015, and USA.com data on income per capita across cities in King County. The prediction accuracy of the features of a home included in our model accounted for about 67% of the variation in price, with a price prediction of+/- $201,491 from the actual price.
+The project utilizes a descriptive analysis, linear modeling, and running several iterations of an OLS regression on home features to reveal which factors contribute most to housing prices.  Our main data sets are King County House Sales Data from 2014 to 2015, and USA.com data on income per capita across cities in King County. The prediction accuracy of the features of the home included in our model accounted for about 67% of the variation in price, with a price prediction of+/- $201,491 from the actual price.
 # Results
-Here the Price vs Square Feet of the home presents a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on the number of square footage of the home.
+Here the Price vs Square Feet of the home presents a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on the number of the square footage of the home.
 
 ![download-3](https://user-images.githubusercontent.com/82670256/131037456-12821660-d6db-47ff-b42f-60f2d6254107.png)
 
@@ -17,8 +17,8 @@ Here based on Mean Price by income shows a strong correlation between the income
 # Conclusion 
 Real estate companies working on pricing of homes in King County should consider the square footage of the home, and income per capita of the home to give the most accurate pricing evaluation.
 # Next Steps
-For more comprehensive evaluation of pricing a home, a real estate company should further inquire into:
-- Expanding the data to years beyond 2015, to see if pricing has changed overtime with other important features to the home.
+For a more comprehensive evaluation of pricing a home, a real estate company should further inquire into:
+- Expanding the data to years beyond 2015, to see if pricing has changed over time with other important features to the home.
 - Include property tax information to better predict prices in the future.
 - Include more features of a neighborhood, such as a school district & public transit.
 # Additional Information 
