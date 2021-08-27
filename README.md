@@ -35,8 +35,7 @@ Rashid Karriti: rhk48@georgetown.edu
 ```
 ├── README.md
 ├── data      <-- CSV 
-├── images    <-- visualizations from working notebooks and external images
-├── Individuals Notebooks       <--- Directory for individual workspaces
+├── working_notebooks       <--- Directory for individual workspaces
 │   ├── meaghan
 │   ├── lorela
 │   ├── rashid
