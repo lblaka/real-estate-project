@@ -12,7 +12,7 @@ The project utilizes a descriptive analysis, linear modeling, and running severa
 # Results
 Here the Price vs Square Feet of the home presents a strong correlation between the size of the home and an increase in the price. Our recommendation is to price homes based on the number of the square footage of the home. <br />
 
-![download-3](https://user-images.githubusercontent.com/82670256/131037456-12821660-d6db-47ff-b42f-60f2d6254107.png)
+![download (1)](https://user-images.githubusercontent.com/82670256/131152277-d2ceab93-058d-4c4f-99f8-dc1d20afeeac.png)
 
 Here based on Mean Price by income shows a strong correlation between the income per capita of a neighborhood and an increase in price. Our recommendation is to price homes that have a higher income per capita. 
 <br />
