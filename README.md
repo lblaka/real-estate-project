@@ -41,7 +41,7 @@ Rashid Karriti: rhk48@georgetown.edu
 │   ├── lorela
 │   ├── rashid
 │   
-├── Project 2 Notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
+├── final_notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
 ├── RealEstateProject.pdf   <-- non-technical presentation slides
 └── .gitignore
 ```
