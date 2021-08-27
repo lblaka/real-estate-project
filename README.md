@@ -22,27 +22,23 @@ For a more comprehensive evaluation of pricing a home in the future, a real esta
 - Expanding the data to years beyond 2015, to see if pricing has changed over time with other important features to the home.
 - Include property tax information to better predict prices in the future.
 - Include more features of a neighborhood, such as a school district & public transit.
-# Additional Information 
-
-- Jupyter Notebook
-- Instructions on navigating repo 
+# For More Information 
+See the full analysis in the [Jupyter Notebook](https://www.google.com) or review [this presentation](https://www.google.com).
 
 Lorela Blaka: lblaka@gmail.com
-
 Meaghan Ross: mer423@nyu.edu 
-
 Rashid Karriti: rhk48@georgetown.edu
+
 # Project Structure 
 ```
 ├── README.md
 ├── data      <-- CSV 
-├── images    <-- visualizations from working notebooks and external images
 ├── Individuals Notebooks       <--- Directory for individual workspaces
 │   ├── meaghan
 │   ├── lorela
 │   ├── rashid
 │   
-├── Project 2 Notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
+├── final_notebook.ipynb    <-- Jupyter Notebook containing codes detailing project's analysis 
 ├── RealEstateProject.pdf   <-- non-technical presentation slides
 └── .gitignore
 ```
