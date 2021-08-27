@@ -1,7 +1,7 @@
 # BRK Consulting King County
 Authors: Lorela Blaka, Meaghan Ross, Rashid Karriti
 # Overview
-![image-1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.racialequityalliance.org%2Fjurisdictions%2Fking-county-washington%2F&psig=AOvVaw226mvfIU2d_588UXhlTU0N&ust=1630163489079000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIi03LG-0fICFQAAAAAdAAAAABAJ)
+![image-1](https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg)
 This project analyzes a series of linear regressions to provide recommendations for King County Real Estate to have a better understanding of how to price homes in Washington's King County. Interpretive analysis shows that income per capita and the square footage of the home are strong indicators of how to price a home.
 # Business Understanding 
 King County Real Estate has contracted us to investigate what home features have the greatest impact on pricing and speeding up the sale of the home. Based on our models, King County Real Estate should: <br />
